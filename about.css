@@ -131,3 +131,16 @@ footer {
 body.dark-mode footer{
   background: rgba(0, 35, 100, 0.651);
 }
+
+@media (max-width: 768px) {
+    /* Example: Adjust container width on smaller screens */
+    .container {
+        width: 100%;
+        padding: 10px;
+    }
+    /* Example: Adjust text size */
+    h1 {
+        font-size: 24px;
+    }
+}
+
