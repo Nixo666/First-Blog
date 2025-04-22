@@ -82,11 +82,11 @@ nav ul li a:hover{
 }
 
 header{
-  padding: 150px;
+  padding: 150px 20px 40px;
 }
 
 header img{
-   align: center;
+  align: center;
 }
 
 header h1{
