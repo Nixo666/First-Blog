@@ -85,6 +85,10 @@ header{
   padding: 150px;
 }
 
+header img{
+   align: center;
+}
+
 header h1{
   margin-top: 10px;
 }
