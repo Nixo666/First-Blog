@@ -86,7 +86,7 @@ header{
 }
 
 header img{
-  align: center;
+  align-items: center;
 }
 
 header h1{
