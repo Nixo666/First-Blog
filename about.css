@@ -146,4 +146,7 @@ body.dark-mode footer{
     margin: 10px;
   }
 
+  footer {
+  padding: 60px;
+  }
 }
