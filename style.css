@@ -151,3 +151,14 @@ footer {
 body.dark-mode footer{
     background: rgba(0, 35, 100, 0.651);
 }
+
+@media (max-width: 500px){
+    .sections{
+        grid-template-columns: 1fr;
+    }
+  
+    nav ul li{
+      margin: 10px;
+    }
+  
+}
