@@ -166,6 +166,10 @@ body.dark-mode footer{
     }
 
     .welcome h1{
-    font-size: 30px;
-}
+    font-size: 40px;
+    }
+
+    .welcome p{
+    font-size: 14px;
+    }
 }
