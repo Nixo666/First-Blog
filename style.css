@@ -164,4 +164,8 @@ body.dark-mode footer{
     footer {
     padding: 60px;
     }
+
+    .welcome h1{
+    font-size: 30px;
+}
 }
